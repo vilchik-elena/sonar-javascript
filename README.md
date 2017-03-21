@@ -1,4 +1,4 @@
-SonarQube JavaScript
+SonarJS
 ================
 
 This is the SonarQube JavaScript Plugin
